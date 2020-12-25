@@ -8,6 +8,9 @@
 
 > 在这里我选择使用**labelImg**
 
+> 数据集大小重置工具：`Image_tool.exe` [百度网盘下载（提取码：2tmv）](https://pan.baidu.com/s/1I9RDnfClspl4iZhBPp_0lw )
+
+
 # 数据集标注
 
 1. 下载[labelImg](https://github.com/tzutalin/labelImg/releases)
