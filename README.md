@@ -38,6 +38,19 @@ dataset
 
 # yolov5数据集制作
 
+## 0、数据图片重命名
+
+```html
+命名从01开始，设置
+set count=100
+
+命名从0001开始，设置
+set count=10000
+
+如果我们想要从038开始排序，可以将第三行代码：
+set count=10037
+```
+
 ## 1.voc格式数据集转化yolov5格式数据集
 
 运行`voc_to_yoloV5.py`【该脚本实现将`voc`格式的数据转化为`yoloV5`需要的`.txt`标注文件,运行该脚本，会在`dataset/voc/`目录下生成 `worktxt/`目录(`yolo`需要的格式)】
