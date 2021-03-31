@@ -40,6 +40,8 @@ dataset
 
 ## 0、数据图片重命名
 
+对于`rename.bat`：
+
 ```html
 命名从01开始，设置
 set count=100
