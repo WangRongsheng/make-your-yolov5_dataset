@@ -176,6 +176,10 @@ dataset
 git clone https://github.com/ultralytics/yolov5.git
 ```
 
+## 5.txt格式数据回改成voc格式
+
+修改`yolo2voc.py`文件中第`6，7，8，10`行相应内容即可得到`VOC`数据
+
 # 参考
 
 - https://github.com/DLLXW/objectDetectionDatasets
