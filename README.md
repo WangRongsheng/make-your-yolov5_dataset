@@ -183,4 +183,5 @@ git clone https://github.com/ultralytics/yolov5.git
 # 参考
 
 - https://github.com/DLLXW/objectDetectionDatasets
+- [yolo->voc（未添加）](https://aistudio.baidu.com/aistudio/projectdetail/2158775)
 
