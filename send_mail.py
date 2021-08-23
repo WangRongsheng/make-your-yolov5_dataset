@@ -9,9 +9,9 @@ import time
 授权码：RHNLWUVVNXNYCEFX
 '''
     
-def sendMail(subject='程序完成情况',msg='您的程序已经运行完成，请去AI Studio查看日志结果',to_list=['603329354@qq.com']):
-    sender = 'nicewangrs@126.com'
-    sender_password='RHNLWUVVNXNYCEFX'
+def sendMail(subject='程序完成情况',msg='您的程序已经运行完成，请去AI Studio查看日志结果',to_list=['60332xxx@qq.com']):
+    sender = 'xxx@126.com'
+    sender_password='密钥'
  
 
     # 创建邮箱
