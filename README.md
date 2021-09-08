@@ -3,6 +3,7 @@
 - [labelImg](https://github.com/tzutalin/labelImg/)
 - [labelMe](https://github.com/wkentaro/labelme)
 - [精灵标注助手](http://www.jinglingbiaozhu.com/)
+- [label Studio](https://github.com/heartexlabs/label-studio) [教程](https://www.bilibili.com/video/BV1dL41147KE)
 
 更多的标注工具你可以去看：[深度学习图像标注工具汇总](https://zhangxu.blog.csdn.net/article/details/79036312?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.compare&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.compare) 、 [十个最常用深度学习图像/视频数据标注工具](https://blog.csdn.net/PAN_Andy/article/details/99283490?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.compare&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.compare) 、 [百度一下](https://baidu.com)
 
